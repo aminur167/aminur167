@@ -51,6 +51,8 @@ I specialize in modern web technologies including HTML, CSS, JavaScript, and hav
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aminur167&theme=radical" alt="Aminur's GitHub Streak" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminur167&layout=compact&theme=radical" alt="Aminur's Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminur167&custom_title=Aminur's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+
 
 </div>
 
