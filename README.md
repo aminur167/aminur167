@@ -116,19 +116,9 @@
 
 <br>
 
-<h2 align="center">📚 Projects</h2>
 
-# My Projects
 
-Here are some of the projects I've worked on:
 
-| E-Commerce Platform | Task Management System |
-| -------------- | -------------- |
-| ![E-Commerce Platform](https://i.ibb.co/your-image1.png) <br> **Description**: A full-stack e-commerce platform with user authentication, product management, shopping cart, and payment integration. <br> **Technologies Used**: React, Node.js, MongoDB, Express, JWT <br> **Link**: [View Project](https://your-ecommerce-demo.netlify.app/) | ![Task Management System](https://i.ibb.co/your-image2.png) <br> **Description**: A comprehensive task management application with drag-and-drop functionality, real-time updates, and team collaboration features. <br> **Technologies Used**: React, Node.js, MongoDB, Socket.io <br> **Link**: [View Project](https://your-taskapp-demo.netlify.app/) |
-| Portfolio Website | Weather Application |
-| ![Portfolio Website](https://i.ibb.co/your-image3.png) <br> **Description**: A responsive portfolio website showcasing my projects, skills, and professional experience with modern UI/UX design. <br> **Technologies Used**: HTML, CSS, JavaScript, React <br> **Link**: [View Project](https://aminur167.github.io) | ![Weather App](https://i.ibb.co/your-image4.png) <br> **Description**: A real-time weather application that provides current weather conditions and forecasts using weather API integration. <br> **Technologies Used**: JavaScript, API Integration, CSS <br> **Link**: [View Project](https://your-weatherapp-demo.netlify.app/) |
-
----
 
 ## Technologies
 
