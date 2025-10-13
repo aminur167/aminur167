@@ -158,7 +158,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aminur167)
 
 ### Additional Info
-- **LeetCode**: [aminur167](https://leetcode.com/aminur167)
+- **LeetCode**: [aminur_167](https://leetcode.com/aminur167)
 - **Codeforces**: [amin_167](https://codeforces.com/profile/amin_167)
 - **HackerRank**: [aminur167](https://www.hackerrank.com/aminur167)
 
