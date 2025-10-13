@@ -40,7 +40,8 @@ I am passionate about **Web Development and programming**, and enjoy building pr
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminur167&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminur167&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminur167&theme=radical)  
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=aminur167.aminur167)  
 
 ---
 
