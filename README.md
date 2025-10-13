@@ -46,7 +46,7 @@ I specialize in modern web technologies including HTML, CSS, JavaScript, and hav
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminur167&show_icons=true&theme=radical" alt="Aminur's GitHub Stats" />
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=aminur167&show_icons=true&theme=radical" alt="Aminur's GitHub Stats" />
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aminur167&theme=radical" alt="Aminur's GitHub Streak" />
 
