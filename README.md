@@ -10,7 +10,7 @@
 
 <div align="center">
 
-```javascript
+
 const aminur = {
   pronouns: "He" | "Him",
   code: ["HTML", "CSS", "JavaScript", "C", "C++", "Java", "Python"],
@@ -19,7 +19,7 @@ const aminur = {
   challenge: "I'm currently working on becoming a Full Stack Developer",
   funFact: "I love turning coffee into code ☕"
 };
-```
+
 
 </div>
 
