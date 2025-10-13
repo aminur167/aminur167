@@ -32,7 +32,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://twitter.com/aminur167" target="_blank">
+        <a href="https://twitter.com/aminur_167" target="_blank">
           <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitter.com%2Faminur167&subtitle=@aminur167&size=square" alt="Twitter">
         </a>
       </td>
