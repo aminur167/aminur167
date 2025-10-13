@@ -8,15 +8,9 @@
 
 ## 🌟 About Me
 
-<div align="center" style="background: #0d1117; border-radius: 10px; padding: 20px; border: 2px solid transparent; background-clip: padding-box, border-box; background-origin: padding-box, border-box; background-image: linear-gradient(#0d1117, #0d1117), linear-gradient(45deg, #79FF97, #667eea);">
+<div align="center">
 
-<p align="center">
-  👋 Hi, I’m Mahmudul Hasan Abin, a Junior Python Developer from Hajee Mohammad Danesh Science and Technology University, Dinajpur.
-
-I have a strong foundation in programming languages like Python, Django, C, and C++, along with web technologies including HTML, CSS, and JavaScript. I am passionate about writing clean, efficient code and continuously learning new technologies.
-</p>
-  
-javascript
+```javascript
 const aminur = {
   pronouns: "He" | "Him",
   code: ["HTML", "CSS", "JavaScript", "C", "C++", "Java", "Python"],
@@ -25,6 +19,8 @@ const aminur = {
   challenge: "I'm currently working on becoming a Full Stack Developer",
   funFact: "I love turning coffee into code ☕"
 };
+```
+
 </div>
 
 ## 🛠️ Tech Stack
