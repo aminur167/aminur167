@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://bento.me/aminur167">
-   <img width="100%" src="https://cardivo.vercel.app/api?name=Aminur%20Islam&description=👋%20Hi,%20I'm%20Aminur%20Islam,%20a%20passionate%20Full%20Stack%20Developer%20specializing%20in%20MERN%20stack.%20I%20have%20expertise%20in%20HTML,%20CSS,%20JavaScript,%20React,%20Node.js,%20and%20Python.%20I%20love%20building%20scalable%20web%20applications%20and%20continuously%20learning%20new%20technologies.&image=https%3A%2F%2Fi.ibb.co.com%2Fv6xzS33d%2Fprofile.jpg&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=aminur_167&linkedin=aminur167&github=aminur167&twitter=aminur_167" alt="Aminur Islam's Card" />
+   <img width="100%" src="https://cardivo.vercel.app/api?name=Aminur%20Islam&description=👋%20Hi,%20I'm%20Aminur%20Islam,%20a%20passionate%20Full%20Stack%20Developer%20specializing%20in%20MERN%20stack.%20I%20have%20expertise%20in%20HTML,%20CSS,%20JavaScript,%20React,%20Node.js,%20and%20Python.%20I%20love%20building%20scalable%20web%20applications%20and%20continuously%20learning%20new%20technologies.&image=https%3A%2F%2Fi.ibb.co.com%2Fv6xzS33d%2Fprofile.jpg&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=aminur_167&linkedin=aminur167&github=aminur167&twitter=aminur167" alt="Aminur Islam's Card" />
 </div>
 
 <h1 align="center">👋 Hello, I'm Aminur Islam!</h1>
@@ -32,8 +32,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://twitter.com/aminur_167" target="_blank">
-          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitter.com%2Faminur_167&subtitle=@aminur_167&size=square" alt="Twitter">
+        <a href="https://twitter.com/aminur167" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitter.com%2Faminur167&subtitle=@aminur167&size=square" alt="Twitter">
         </a>
       </td>
       <td align="center">
@@ -116,6 +116,10 @@
 
 <br>
 
+
+
+
+
 ## Technologies
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; background-color: #f9f9f9; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
@@ -129,25 +133,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-<br>
 
-**FRONTEND**  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 
-<br>
-
-**BACKEND**  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-
-<br>
-
-**DATABASES**  
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
 <br>
 
