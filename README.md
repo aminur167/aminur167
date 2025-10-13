@@ -10,16 +10,7 @@
 
 <div align="center">
 
-```javascript
-const aminur = {
-  pronouns: "He" | "Him",
-  code: ["HTML", "CSS", "JavaScript", "C", "C++", "Java", "Python"],
-  tools: ["React", "Node.js", "Git", "GitHub", "VS Code"],
-  architecture: ["MERN Stack", "Responsive Design"],
-  challenge: "I'm currently working on becoming a Full Stack Developer",
-  funFact: "I love turning coffee into code ☕"
-};
-```
+<p> ```javascript const aminur = { pronouns: "He" | "Him", code: ["HTML", "CSS", "JavaScript", "C", "C++", "Java", "Python"], tools: ["React", "Node.js", "Git", "GitHub", "VS Code"], architecture: ["MERN Stack", "Responsive Design"], challenge: "I'm currently working on becoming a Full Stack Developer", funFact: "I love turning coffee into code ☕" }; ``` </p>
 
 </div>
 
