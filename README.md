@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
 <div align="center">
   <a href="https://bento.me/aminur167">
    <img width="100%" src="https://cardivo.vercel.app/api?name=Aminur%20Islam&description=👋%20Hi,%20I'm%20Aminur%20Islam,%20a%20passionate%20Full%20Stack%20Developer%20specializing%20in%20MERN%20stack.%20I%20have%20expertise%20in%20HTML,%20CSS,%20JavaScript,%20React,%20Node.js,%20and%20Python.%20I%20love%20building%20scalable%20web%20applications%20and%20continuously%20learning%20new%20technologies.&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2Fyour_avatar_url&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=aminur_167&linkedin=aminur167&github=aminur167&twitter=aminur167" alt="Aminur Islam's Card" />
