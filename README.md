@@ -39,9 +39,13 @@ I am passionate about **Web Development and programming**, and enjoy building pr
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminur167&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminur167&theme=radical)  
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=aminur167.aminur167)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aminur167&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminur167&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=aminur167&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
@@ -55,3 +59,7 @@ I am happy to connect and collaborate!
 ---
 
 ⭐ **Thank you for visiting my profile!**
+
+---
+
+*Last updated: 2024*
