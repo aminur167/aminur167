@@ -85,7 +85,7 @@
 
 <h3 align="center">📈 Git Stats</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminur167&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aminur167&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminur167&custom_title=Aminur's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 </div>
