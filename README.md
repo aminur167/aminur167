@@ -10,7 +10,7 @@
 
 <div align="center">
 
-```javascript
+javascript
 const aminur = {
   pronouns: "He" | "Him",
   code: ["HTML", "CSS", "JavaScript", "C", "C++", "Java", "Python"],
