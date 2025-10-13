@@ -37,8 +37,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://facebook.com/aminur167" target="_blank">
-          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Faminur167&subtitle=@Aminur+Islam&size=square" alt="Facebook">
+        <a href="https://www.facebook.com/aminur.islam.868339?mibextid=ZbWKwL" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.facebook.com%2Faminur.islam.868339%3Fmibextid%3DZbWKwL&subtitle=@Aminur+Islam&size=square" alt="Facebook">
         </a>
       </td>
     </tr>
@@ -158,7 +158,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aminur167)
 
 ### Additional Info
-- **LeetCode**: [aminur_167](https://leetcode.com/aminur167)
+- **LeetCode**: [aminur167](https://leetcode.com/aminur167)
 - **Codeforces**: [amin_167](https://codeforces.com/profile/amin_167)
 - **HackerRank**: [aminur167](https://www.hackerrank.com/aminur167)
 
