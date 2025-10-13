@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://bento.me/aminur167">
-   <img width="100%" src="https://cardivo.vercel.app/api?name=Aminur%20Islam&description=👋%20Hi,%20I'm%20Aminur%20Islam,%20a%20passionate%20Full%20Stack%20Developer%20specializing%20in%20MERN%20stack.%20I%20have%20expertise%20in%20HTML,%20CSS,%20JavaScript,%20React,%20Node.js,%20and%20Python.%20I%20love%20building%20scalable%20web%20applications%20and%20continuously%20learning%20new%20technologies.&image=https%3A%2F%2Fi.ibb.co.com%2Fv6xzS33d%2Fprofile.jpg&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=aminur_167&linkedin=aminur167&github=aminur167&twitter=aminur167" alt="Aminur Islam's Card" />
+   <img width="100%" src="https://cardivo.vercel.app/api?name=Aminur%20Islam&description=👋%20Hi,%20I'm%20Aminur%20Islam,%20a%20passionate%20Full%20Stack%20Developer%20specializing%20in%20MERN%20stack.%20I%20have%20expertise%20in%20HTML,%20CSS,%20JavaScript,%20React,%20Node.js,%20and%20Python.%20I%20love%20building%20scalable%20web%20applications%20and%20continuously%20learning%20new%20technologies.&image=https%3A%2F%2Fi.ibb.co.com%2Fv6xzS33d%2Fprofile.jpg&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=aminur_167&linkedin=aminur167&github=aminur167&twitter=aminur_167" alt="Aminur Islam's Card" />
 </div>
 
 <h1 align="center">👋 Hello, I'm Aminur Islam!</h1>
@@ -33,7 +33,7 @@
       </td>
       <td align="center">
         <a href="https://twitter.com/aminur_167" target="_blank">
-          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitter.com%2Faminur167&subtitle=@aminur167&size=square" alt="Twitter">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitter.com%2Faminur_167&subtitle=@aminur_167&size=square" alt="Twitter">
         </a>
       </td>
       <td align="center">
@@ -59,8 +59,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://codeforces.com/profile/aminur167" target="_blank">
-          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fcodeforces.com%2Fprofile%2Faminur167&subtitle=@aminur167&size=square" alt="Codeforces">
+        <a href="https://codeforces.com/profile/amin_167" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fcodeforces.com%2Fprofile%2Famin_167&subtitle=@amin_167&size=square" alt="Codeforces">
         </a>
       </td>
       <td align="center">
@@ -116,10 +116,6 @@
 
 <br>
 
-
-
-
-
 ## Technologies
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; background-color: #f9f9f9; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
@@ -132,9 +128,6 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-
-
 
 <br>
 
@@ -159,14 +152,14 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/aminur167)
 
 ### Codeforces Profile
-[![Codeforces](https://img.shields.io/badge/Codeforces-FF4B4B?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aminur167)
+[![Codeforces](https://img.shields.io/badge/Codeforces-FF4B4B?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/amin_167)
 
 ### HackerRank Profile
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aminur167)
 
 ### Additional Info
 - **LeetCode**: [aminur167](https://leetcode.com/aminur167)
-- **Codeforces**: [aminur167](https://codeforces.com/profile/aminur167)
+- **Codeforces**: [amin_167](https://codeforces.com/profile/amin_167)
 - **HackerRank**: [aminur167](https://www.hackerrank.com/aminur167)
 
 <h2 align="center">📫 Get in Touch</h2>
