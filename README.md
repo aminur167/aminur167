@@ -1,184 +1,206 @@
-# Hi there 👋, I'm Aminur Islam
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aminur%20Islam&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Student%20%7C%20Tech%20Enthusiast&descAlignY=55)
-
+  <a href="https://bento.me/aminur167">
+   <img width="100%" src="https://cardivo.vercel.app/api?name=Aminur%20Islam&description=👋%20Hi,%20I'm%20Aminur%20Islam,%20a%20passionate%20Full%20Stack%20Developer%20specializing%20in%20MERN%20stack.%20I%20have%20expertise%20in%20HTML,%20CSS,%20JavaScript,%20React,%20Node.js,%20and%20Python.%20I%20love%20building%20scalable%20web%20applications%20and%20continuously%20learning%20new%20technologies.&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2Fyour_avatar_url&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=aminur_167&linkedin=aminur167&github=aminur167&twitter=aminur167" alt="Aminur Islam's Card" />
 </div>
 
-<h2 align="center">🌟 About Me</h2>
-<p align="center">
-  👋 Hi, I'm Aminur Islam, a passionate Full Stack Developer and tech enthusiast currently pursuing my studies.
-
-I specialize in modern web technologies including HTML, CSS, JavaScript, and have experience with various programming languages like C, C++, Java, and Python. I'm currently focused on mastering the MERN stack and building responsive, user-friendly applications. I love transforming complex problems into simple, beautiful solutions and turning coffee into clean code ☕.
-</p>
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p align="left"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-</p>
-
-### 🛠️ Tools & Technologies
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-</p>
-
-### 🌐 Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" width="280em" src="https://github-readme-stats.vercel.app/api?username=aminur167&show_icons=true&theme=radical" alt="Aminur's GitHub Stats" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aminur167&theme=radical" alt="Aminur's GitHub Streak" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminur167&layout=compact&theme=radical" alt="Aminur's Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminur167&custom_title=Aminur's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-
-
-</div>
-
-## 🚀 Projects
-
-### 💼 Featured Projects
-
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **First HTML Project** | My first step into HTML and webpage structure | HTML, CSS |
-| **CSS Practice** | Exercises to improve styling and layout skills | CSS, Responsive Design |
-| **JavaScript Experiments** | Small scripts to practice logic, DOM, and events | JavaScript, DOM |
-| **MERN Stack App** | Full-stack web application | MongoDB, Express, React, Node.js |
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- 🔄 I'm currently working on various web development projects -->
-<!-- 📚 Learning new technologies and frameworks -->
-<!-- 🎯 Building my portfolio and contributing to open source -->
-<!--END_SECTION:activity-->
-
-## 📊 GitHub Metrics
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=aminur167&color=blue&style=flat-square&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/aminur167?label=Followers&style=social)
-![Total Stars](https://img.shields.io/github/stars/aminur167?label=Total%20Stars&color=gold)
-![Monthly Commits](https://img.shields.io/github/commit-activity/m/aminur167?label=Monthly%20Commits&color=green)
-
-</div>
-
-## 🎯 Goals for 2024
-
-- ✅ **Master MERN Stack Development**
-- 🔄 **Contribute to Open Source Projects**
-- 🔄 **Build 10+ Real World Projects**
-- 📚 **Learn DevOps Basics**
-- 🏆 **Participate in Hackathons**
-- 🌐 **Learn TypeScript and Next.js**
-- 💼 **Complete Internship in Web Development**
-
-## 📫 Connect With Me
-
-<div align="center">
+<h1 align="center">👋 Hello, I'm Aminur Islam!</h1>
 
 <p align="center">
-  <a href="mailto:aminurhstu23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/aminur_167/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/aminur167">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Developer;Web+Developer;Tech+Enthusiast;Problem+Solver;" alt="Typing SVG" />
 </p>
 
-</div>
-
-## 💡 Random Dev Quote
+<p align="center">Software Engineer | Open Source Contributor | Continuous Learner</p>
 
 <div align="center">
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://aminur167.github.io" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Aminur+Islam&size=square" alt="Aminur Islam">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/aminur167/" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faminur167%2F&subtitle=@aminur167&size=square" alt="LinkedIn">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.instagram.com/aminur_167/" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Faminur_167%2F&subtitle=@aminur_167&size=square" alt="Instagram">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://twitter.com/aminur167" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitter.com%2Faminur167&subtitle=@aminur167&size=square" alt="Twitter">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://facebook.com/aminur167" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Faminur167&subtitle=@Aminur+Islam&size=square" alt="Facebook">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="mailto:aminurhstu23@gmail.com" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=mailto:aminurhstu23@gmail.com&subtitle=Email&size=square" alt="Email">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://leetcode.com/aminur167" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fleetcode.com%2Faminur167&subtitle=@aminur167&size=square" alt="LeetCode">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/aminur167" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Faminur167&subtitle=%2Faminur167&size=square" alt="GitHub">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://codeforces.com/profile/aminur167" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fcodeforces.com%2Fprofile%2Faminur167&subtitle=@aminur167&size=square" alt="Codeforces">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.hackerrank.com/aminur167" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.hackerrank.com%2Faminur167&subtitle=@aminur167&size=square" alt="HackerRank">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 🎵 Currently Coding With
+<br>
 
-<div align="center">
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem)
-
-</div>
-
-## ⚡ Fun Fact
-
-<div align="center">
-
-**I'm probably coding right now... or thinking about coding! 🚀**
-
-**When I'm not coding, you can find me:**
-- ☕ Drinking coffee while debugging
-- 📖 Reading tech blogs and documentation
-- 🎧 Listening to coding podcasts
-- 💡 Brainstorming new project ideas
-
-![Snake Animation](https://github.com/aminur167/aminur167/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-## 📚 Currently Learning
-
-<div align="center">
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aminur167&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
+<h2 align="center">🚀 About Me</h2>
+<p align="center">
+  👋 Hi, I'm Aminur Islam, a passionate Full Stack Developer specializing in MERN stack development. I have strong expertise in modern web technologies including React, Node.js, MongoDB, and Express.js. With solid foundation in programming languages like JavaScript, Python, Java, C, and C++, I'm dedicated to building scalable, efficient, and user-friendly applications. I'm constantly learning new technologies and improving my problem-solving skills.
+</p>
+
+<h3 align="center">📈 Git Stats</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=aminur167&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminur167&custom_title=Aminur's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 </div>
+
+<br>
 
 <div align="center">
-
-## ✨ Thanks for Visiting!
-
-**Thanks for stopping by my profile! Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate on exciting projects! ✨**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminur167&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminur167&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminur167&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aminur167&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" alt="Aminur Islam's GitHub Stats" />
+</div>
+
+<br>
+
+<h2 align="center">📚 Projects</h2>
+
+# My Projects
+
+Here are some of the projects I've worked on:
+
+| E-Commerce Platform | Task Management System |
+| -------------- | -------------- |
+| ![E-Commerce Platform](https://i.ibb.co/your-image1.png) <br> **Description**: A full-stack e-commerce platform with user authentication, product management, shopping cart, and payment integration. <br> **Technologies Used**: React, Node.js, MongoDB, Express, JWT <br> **Link**: [View Project](https://your-ecommerce-demo.netlify.app/) | ![Task Management System](https://i.ibb.co/your-image2.png) <br> **Description**: A comprehensive task management application with drag-and-drop functionality, real-time updates, and team collaboration features. <br> **Technologies Used**: React, Node.js, MongoDB, Socket.io <br> **Link**: [View Project](https://your-taskapp-demo.netlify.app/) |
+| Portfolio Website | Weather Application |
+| ![Portfolio Website](https://i.ibb.co/your-image3.png) <br> **Description**: A responsive portfolio website showcasing my projects, skills, and professional experience with modern UI/UX design. <br> **Technologies Used**: HTML, CSS, JavaScript, React <br> **Link**: [View Project](https://aminur167.github.io) | ![Weather App](https://i.ibb.co/your-image4.png) <br> **Description**: A real-time weather application that provides current weather conditions and forecasts using weather API integration. <br> **Technologies Used**: JavaScript, API Integration, CSS <br> **Link**: [View Project](https://your-weatherapp-demo.netlify.app/) |
 
 ---
 
-<div align="center">
+## Technologies
 
-### 📅 Last Updated: <!--LAST_UPDATED:2024-->
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; background-color: #f9f9f9; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);">
+
+**LANGUAGES**  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+<br>
+
+**FRONTEND**  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+
+<br>
+
+**BACKEND**  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+
+<br>
+
+**DATABASES**  
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+
+<br>
+
+**TOOLS & PLATFORMS**  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+
+<br>
+
+**DESIGN**  
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 
 </div>
+
+## 👨‍💻 My Competitive Programming Profiles
+
+### LeetCode Profile
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/aminur167)
+
+### Codeforces Profile
+[![Codeforces](https://img.shields.io/badge/Codeforces-FF4B4B?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aminur167)
+
+### HackerRank Profile
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aminur167)
+
+### Additional Info
+- **LeetCode**: [aminur167](https://leetcode.com/aminur167)
+- **Codeforces**: [aminur167](https://codeforces.com/profile/aminur167)
+- **HackerRank**: [aminur167](https://www.hackerrank.com/aminur167)
+
+<h2 align="center">📫 Get in Touch</h2>
+<p align="center">
+  Feel free to connect with me on any of the platforms above! I'm always open to discussing new opportunities, collaborations, and tech innovations.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
