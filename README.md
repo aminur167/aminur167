@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://bento.me/aminur167">
-   <img width="100%" src="https://cardivo.vercel.app/api?name=Aminur%20Islam&description=👋%20Hi,%20I'm%20Aminur%20Islam,%20a%20passionate%20Full%20Stack%20Developer%20specializing%20in%20MERN%20stack.%20I%20have%20expertise%20in%20HTML,%20CSS,%20JavaScript,%20React,%20Node.js,%20and%20Python.%20I%20love%20building%20scalable%20web%20applications%20and%20continuously%20learning%20new%20technologies.&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2Fyour_avatar_url&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=aminur_167&linkedin=aminur167&github=aminur167&twitter=aminur167" alt="Aminur Islam's Card" />
+   <img width="100%" src="https://cardivo.vercel.app/api?name=Aminur%20Islam&description=👋%20Hi,%20I'm%20Aminur%20Islam,%20a%20passionate%20Full%20Stack%20Developer%20specializing%20in%20MERN%20stack.%20I%20have%20expertise%20in%20HTML,%20CSS,%20JavaScript,%20React,%20Node.js,%20and%20Python.%20I%20love%20building%20scalable%20web%20applications%20and%20continuously%20learning%20new%20technologies.&image=https%3A%2F%2Fi.ibb.co.com%2Fv6xzS33d%2Fprofile.jpg&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&instagram=aminur_167&linkedin=aminur167&github=aminur167&twitter=aminur167" alt="Aminur Islam's Card" />
 </div>
 
 <h1 align="center">👋 Hello, I'm Aminur Islam!</h1>
@@ -85,7 +85,7 @@
 
 <h3 align="center">📈 Git Stats</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminur167&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aminur167&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminur167&custom_title=Aminur's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 </div>
@@ -116,9 +116,19 @@
 
 <br>
 
+<h2 align="center">📚 Projects</h2>
 
+# My Projects
 
+Here are some of the projects I've worked on:
 
+| E-Commerce Platform | Task Management System |
+| -------------- | -------------- |
+| ![E-Commerce Platform](https://i.ibb.co.com/v6xzS33d/profile.jpg) <br> **Description**: A full-stack e-commerce platform with user authentication, product management, shopping cart, and payment integration. <br> **Technologies Used**: React, Node.js, MongoDB, Express, JWT <br> **Link**: [View Project](https://your-ecommerce-demo.netlify.app/) | ![Task Management System](https://i.ibb.co.com/v6xzS33d/profile.jpg) <br> **Description**: A comprehensive task management application with drag-and-drop functionality, real-time updates, and team collaboration features. <br> **Technologies Used**: React, Node.js, MongoDB, Socket.io <br> **Link**: [View Project](https://your-taskapp-demo.netlify.app/) |
+| Portfolio Website | Weather Application |
+| ![Portfolio Website](https://i.ibb.co.com/v6xzS33d/profile.jpg) <br> **Description**: A responsive portfolio website showcasing my projects, skills, and professional experience with modern UI/UX design. <br> **Technologies Used**: HTML, CSS, JavaScript, React <br> **Link**: [View Project](https://aminur167.github.io) | ![Weather App](https://i.ibb.co.com/v6xzS33d/profile.jpg) <br> **Description**: A real-time weather application that provides current weather conditions and forecasts using weather API integration. <br> **Technologies Used**: JavaScript, API Integration, CSS <br> **Link**: [View Project](https://your-weatherapp-demo.netlify.app/) |
+
+---
 
 ## Technologies
 
@@ -133,8 +143,27 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
+<br>
 
+**FRONTEND**  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
+<br>
+
+**BACKEND**  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+
+<br>
+
+**DATABASES**  
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 
 <br>
 
