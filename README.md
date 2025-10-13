@@ -6,13 +6,12 @@
 
 </div>
 
-## 🌟 About Me
+<h2 align="center">🌟 About Me</h2>
+<p align="center">
+  👋 Hi, I'm Aminur Islam, a passionate Full Stack Developer and tech enthusiast currently pursuing my studies.
 
-<div align="center">
-
-<p> ```javascript const aminur = { pronouns: "He" | "Him", code: ["HTML", "CSS", "JavaScript", "C", "C++", "Java", "Python"], tools: ["React", "Node.js", "Git", "GitHub", "VS Code"], architecture: ["MERN Stack", "Responsive Design"], challenge: "I'm currently working on becoming a Full Stack Developer", funFact: "I love turning coffee into code ☕" }; ``` </p>
-
-</div>
+I specialize in modern web technologies including HTML, CSS, JavaScript, and have experience with various programming languages like C, C++, Java, and Python. I'm currently focused on mastering the MERN stack and building responsive, user-friendly applications. I love transforming complex problems into simple, beautiful solutions and turning coffee into clean code ☕.
+</p>
 
 ## 🛠️ Tech Stack
 
