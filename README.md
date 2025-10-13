@@ -1,65 +1,55 @@
 # Hi there 👋, I'm Aminur Islam
 
-🌱 I’m a student at **Hajee Mohammad Danesh Science & Technology University (HSTU)** from **Dinajpur, Bangladesh**.  
-I am passionate about **Web Development and programming**, and enjoy building projects that help me practice and improve my skills.
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aminur%20Islam&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Student%20%7C%20Tech%20Enthusiast&descAlignY=55)
 
----
+</div>
 
-### 🔹 About Me
-- I focus on **HTML, CSS, JavaScript, C, C++, Java, Python, and Git**  
-- I love learning new things every day and experimenting with small projects  
-- My goal is to become a **Frontend / MERN Stack Developer**  
-- I enjoy connecting with other developers and sharing knowledge
+## 🌟 About Me
 
----
+<div align="center">
 
-### 🛠️ Skills & Tools
+```javascript
+const aminur = {
+  pronouns: "He" | "Him",
+  code: ["HTML", "CSS", "JavaScript", "C", "C++", "Java", "Python"],
+  tools: ["React", "Node.js", "Git", "GitHub", "VS Code"],
+  architecture: ["MERN Stack", "Responsive Design"],
+  challenge: "I'm currently working on becoming a Full Stack Developer",
+  funFact: "I love turning coffee into code ☕"
+};
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Instructions:**
+1. Copy this entire code
+2. Go to your GitHub profile
+3. Create/edit `README.md` file
+4. Paste this code
+5. Commit changes
 
----
+**Note:** Some features like Spotify, Snake animation require additional setup. But basic animations and stats will work immediately! 🚀
 
-### 📂 Projects
+**For Snake Animation:** Create `.github/workflows/snake.yml` file with this content:
+```yaml
+name: Generate Snake Animation
 
-- **[First HTML Project](https://github.com/aminur167/First-HTML)** – My first step into HTML and webpage structure  
-- **[CSS Practice](https://github.com/aminur167/css)** – Exercises to improve styling and layout skills  
-- **[JavaScript Experiments](https://github.com/aminur167/javascript)** – Small scripts to practice logic, DOM, and events
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminur167&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminur167&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=aminur167&color=blue&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-### 📫 Contact Me
-
-I am happy to connect and collaborate!  
-
-- 📧 Email: aminurhstu23@gmail.com  
-- 📸 Instagram: [@aminur_167](https://www.instagram.com/aminur_167/)
-
----
-
-⭐ **Thank you for visiting my profile!**
-
----
-
-*Last updated: 2024*
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        with:
+          github_user_name: aminur167
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
