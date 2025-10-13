@@ -46,13 +46,11 @@ I specialize in modern web technologies including HTML, CSS, JavaScript, and hav
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminur167&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=79FF97&text_color=FFFFFF" alt="Aminur's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aminur167&show_icons=true&theme=radical" alt="Aminur's GitHub Stats" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aminur167&theme=radical&hide_border=true&background=0D1117&stroke=79FF97&ring=79FF97&fire=79FF97&currStreakLabel=79FF97" alt="Aminur's GitHub Streak" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aminur167&theme=radical" alt="Aminur's GitHub Streak" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminur167&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="Aminur's Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminur167&theme=react-dark&bg_color=0D1117&hide_border=true&color=79FF97&line=79FF97&point=79FF97" alt="Aminur's Activity Graph" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminur167&layout=compact&theme=radical" alt="Aminur's Top Languages" />
 
 </div>
 
