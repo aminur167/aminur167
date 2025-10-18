@@ -146,13 +146,16 @@
 
 </div>
 
-### 👨‍💻 My Competitive Programming Profiles
+## 👨‍💻 My Competitive Programming Profiles
 
 ### LeetCode Profile
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/aminur167)
 
 ### Codeforces Profile
 [![Codeforces](https://img.shields.io/badge/Codeforces-FF4B4B?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/amin_167)
+
+### AtCoder Profile
+[![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/amin_167)
 
 ### CodeChef Profile
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/amin_167)
@@ -163,9 +166,9 @@
 ### Additional Info
 - **LeetCode**: [aminur167](https://leetcode.com/aminur167)
 - **Codeforces**: [amin_167](https://codeforces.com/profile/amin_167)
+- **AtCoder**: [amin_167](https://atcoder.jp/users/amin_167)
 - **CodeChef**: [amin_167](https://www.codechef.com/users/amin_167)
 - **HackerRank**: [aminur167](https://www.hackerrank.com/aminur167)
-
 <h2 align="center">📫 Get in Touch</h2>
 <p align="center">
   Feel free to connect with me on any of the platforms above! I'm always open to discussing new opportunities, collaborations, and tech innovations.
